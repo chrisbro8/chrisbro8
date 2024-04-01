@@ -1,14 +1,14 @@
 <p align="center">
   <img src="https://i.pinimg.com/originals/d5/5e/39/d55e3995642b80318211a82e39f09a68.gif" width="500">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chrisbro8" style="margin-top: 10px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chrisbro8" style=" width="500";">
 </p>
 
-<h2 align="left"> Hi 👋, my name is Brownwell  </h2>
-<p align="left"> 📚 Current junior studying Computer Science at University of Westminster </p>
-<p align="left"> ⚙️ Student Researcher </p>
-<p align="left"> 🌱 I’m currently learning React,Django,RestApi </p>
-<p align="Left"> 💡 Interested in working on side projects in Computer vision,machine learrning </p>
-<p align="left">⚡ Fun fact: Afternoon spent googling error messages and reading Stack Overflow threads.</p>
+<h2 align="center"> Hi 👋, my name is Brownwell  </h2>
+<p align="center"> 📚 Current junior studying Computer Science at University of Westminster </p>
+<p align="center"> ⚙️ Student Researcher </p>
+<p align="center"> 🌱 I’m currently learning React,Django,RestApi </p>
+<p align="center"> 💡 Interested in working on side projects in Computer vision,machine learrning </p>
+<p align="center">⚡ Fun fact: Afternoon spent googling error messages and reading Stack Overflow threads.</p>
 -![](https://komarev.com/ghpvc/?username=chrisbro8)
 <h2 align="center">✨ Languages and Tools ✨  </h2>
 
