@@ -9,5 +9,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - ![](https://komarev.com/ghpvc/?username=chrisbro8&label=Profile+views)
-![image ahref="https://www.linkedin.com/in/brownwell-ehimare-22bb35275"](https://github.com/chrisbro8/chrisbro8/assets/95133066/1f64d87a-561f-4a65-98b0-462c8339f62d)
+![image](https://github.com/chrisbro8/chrisbro8/assets/95133066/f5694937-8b59-4203-93b3-e153f32f590a)
+
   
