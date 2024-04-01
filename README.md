@@ -1,4 +1,6 @@
- Hi,<h1>👋</h1>my name is Brownwell
+ <p><h3>Hi,</h3>h3<h1>👋</h1><h3>my name is Brownwell.<h3>
+  
+  📚<p>Currently Studying Computer Science at the University of Westminster</p>
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ..✨ .
 - 💞️ I’m looking to collaborate on ...
