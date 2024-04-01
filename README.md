@@ -6,12 +6,12 @@
 
 
 
-<h2 align="center"> Hi 👋, my name is Brownwell  </h2>
-<p align="center"> 📚 Current junior studying Computer Science at University of Westminster </p>
-<p align="center"> ⚙️ Student Researcher </p>
-<p align="center"> 🌱 I’m currently learning React,Django,RestApi </p>
+<h2 align="left"> Hi 👋, my name is Brownwell  </h2>
+<p align="left"> 📚 Current junior studying Computer Science at University of Westminster </p>
+<p align="left"> ⚙️ Student Researcher </p>
+<p align="left"> 🌱 I’m currently learning React,Django,RestApi </p>
 <p align="center"> 💡 Interetsed in working on side projects in Computer vision,machine learrning </p>
-<p align="center">⚡ Fun fact: Afternoon spent googling error messages and reading Stack Overflow threads.</p>
+<p align="left">⚡ Fun fact: Afternoon spent googling error messages and reading Stack Overflow threads.</p>
 <p align="center">![](https://komarev.com/ghpvc/?username=tib-source)</p>
 <h2 align="center">✨ Languages and Tools ✨  </h2>
 
