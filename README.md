@@ -1,4 +1,4 @@
- <h3 style="text-align: center;">Hi,👋 I'm Brownwell.<h3>
+<center><h3 style="text-align: center;">Hi,👋 I'm Brownwell.<h3></center> 
   
   <h5>📚 Currently Studying Computer Science at the University of Westminster</h5>
  👀 I’m interested in Front-end,Computer Vision and Data managment willing to Explore
