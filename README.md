@@ -2,6 +2,7 @@
   <img src="https://i.pinimg.com/originals/d5/5e/39/d55e3995642b80318211a82e39f09a68.gif" width="500">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=chrisbro8"  width="500"">
 </p>
+![](https://komarev.com/ghpvc/?username=chrisbro8)
 
 <h2 align="center"> Hi 👋, my name is Brownwell  </h2>
 <p align="center"> 📚 Current junior studying Computer Science at University of Westminster </p>
