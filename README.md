@@ -1,6 +1,5 @@
 <p align="center" width="800">
   <img src="https://i.pinimg.com/originals/d5/5e/39/d55e3995642b80318211a82e39f09a68.gif" width="500">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chrisbro8"  width="500"">
 </p>
 
 
@@ -10,10 +9,11 @@
 <p align="center"> 🌱 I’m currently learning React,Django,RestApi </p>
 <p align="center"> 💡 Interested in working on side projects in Computer vision,Machine learrning and FrontEnd Development </p>
 <p align="center">⚡ Fun fact: Afternoon spent googling error messages and reading Stack Overflow threads.</p>
-<h2 align="center">✨ Languages and Tools ✨  </h2>
-
 <img align='left' width="47%" src="https://github-readme-stats.vercel.app/api?username=chrisbro8&show_icons=true&theme=default" /> 
 <img  width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisbro8&layout=compact" />
+<h2 align="center">✨ Languages and Tools ✨  </h2>
+
+
 <p align="center">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt =   "Javascript">
    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
