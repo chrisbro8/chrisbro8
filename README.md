@@ -10,5 +10,6 @@
 - ⚡ Fun fact: ...
 - ![](https://komarev.com/ghpvc/?username=chrisbro8&label=Profile+views)
 ![image](https://github.com/chrisbro8/chrisbro8/assets/95133066/f5694937-8b59-4203-93b3-e153f32f590a)
+![image](https://github.com/chrisbro8/chrisbro8/assets/95133066/53f0e8f6-86bd-4390-a4f0-3fb331172516)
 
   
