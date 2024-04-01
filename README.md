@@ -1,4 +1,4 @@
- <h3>H👋 my name is Brownwell.<h3>
+ <h3>Hi,👋 my name is Brownwell.<h3>
   
   <p><h5>📚 Currently Studying Computer Science at the University of Westminster</h5></p>
  👀 I’m interested in Front-end,Computer Vision and Data managment willing to Explore
