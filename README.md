@@ -5,8 +5,4 @@
  🌱 I’m currently learning Advanced React,Django.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ehimarechrisbro@gmail.com
-![](https://komarev.com/ghpvc/?username=chrisbro8&label=PROFILE+VIEWS)
-<!---
-chrisbro8/chrisbro8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![](https://komarev.com/ghpvc/?username=your-github-username&label=Profile+view:)
