@@ -1,10 +1,7 @@
 <p align="center">
   <img src="https://i.pinimg.com/originals/d5/5e/39/d55e3995642b80318211a82e39f09a68.gif" width="500">
-</p>
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=chrisbro8" style="margin-top: 10px;">
 </p>
-
 
 <h2 align="left"> Hi 👋, my name is Brownwell  </h2>
 <p align="left"> 📚 Current junior studying Computer Science at University of Westminster </p>
