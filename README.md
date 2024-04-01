@@ -1,6 +1,5 @@
-<p align="center" width="800">
-  <img src="https://i.pinimg.com/originals/d5/5e/39/d55e3995642b80318211a82e39f09a68.gif" width="500">
-</p>
+
+  <img src="https://i.pinimg.com/originals/d5/5e/39/d55e3995642b80318211a82e39f09a68.gif" width="800">
 
 
 <h2 align="center"> Hi 👋, my name is Brownwell  </h2>
