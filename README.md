@@ -10,7 +10,7 @@
 <p align="center">⚡ Fun fact: Afternoon spent googling error messages and reading Stack Overflow threads.</p>
 <img align='left' width="47%" src="https://github-readme-stats.vercel.app/api?username=chrisbro8&show_icons=true&theme=default" /> 
 <img  width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisbro8&layout=compact" />
-<h2 align="center">✨ Languages and Tools ✨  </h2>
+<h2 align="center">  Languages and Tools  </h2>
 
 
 <p align="center">
@@ -47,7 +47,7 @@
   <img src="https://profile-counter.glitch.me/chrisbro8/count.svg" />
 </p>
 
-<h2 align="center">✨ Contact ME ✨  </h2>
+<h2 align="center"> Contact ME @  </h2>
 <p align = "center">Are you a recruiter? Email me to access my private repositories! </p>
 <p align="center">
   
