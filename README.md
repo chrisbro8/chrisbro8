@@ -10,7 +10,7 @@
 <p align="center"> 💡 Interested in working on side projects in Computer vision,Machine learrning and FrontEnd Development </p>
 <p align="center">⚡ Fun fact: Afternoon spent googling error messages and reading Stack Overflow threads.</p>
 <img align='left' width="47%" src="https://github-readme-stats.vercel.app/api?username=chrisbro8&show_icons=true&theme=default" /> 
-<img  width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisbro8&layout=compact" />
+
 <h2 align="center">✨ Languages and Tools ✨  </h2>
 
 
