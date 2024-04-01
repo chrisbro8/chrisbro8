@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"   alt="Visual Studio Code">
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS">
   <p align=center>  
-  <img align=center src="https://github-readme-stats.vercel.app/api?username=ciaracade&show_icons=true&theme=rose">
+  <img align=center src="https://github-readme-stats.vercel.app/api?username=chrisbro8&show_icons=true&theme=rose">
   </p>
 </p>
 
