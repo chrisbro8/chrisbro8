@@ -12,7 +12,8 @@
 <p align="center">⚡ Fun fact: Afternoon spent googling error messages and reading Stack Overflow threads.</p>
 <h2 align="center">✨ Languages and Tools ✨  </h2>
 
-
+<img align='left' width="47%" src="https://github-readme-stats.vercel.app/api?username=chrisbro8&show_icons=true&theme=default" /> 
+<img  width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisbro8&layout=compact" />
 <p align="center">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt =   "Javascript">
    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
