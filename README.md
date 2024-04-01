@@ -5,7 +5,7 @@
 
 <h2 align="center"> Hi 👋, my name is Brownwell  </h2>
 <p align="center"> 📚 Current junior studying Computer Science at University of Westminster </p>
-<p align="center"> ⚙️ Student Researcher </p>
+<p align="center"> ⚙️ Student Researcher @ School of Computing and Engineering </p>
 <p align="center"> 🌱 I’m currently learning React,Django,RestApi </p>
 <p align="center"> 💡 Interested in working on side projects in Computer vision,machine learrning </p>
 <p align="center">⚡ Fun fact: Afternoon spent googling error messages and reading Stack Overflow threads.</p>
@@ -57,6 +57,9 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>  
   </a> 
 </p>
+![github contribution grid snake animation](https://raw.githubusercontent.com/chrisbro8/chrisbro8/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/chrisbro8/chrisbro8/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/b4/e3/71/b4e371619042d1e80918d09904e90f7d.gif" width = "1000">
