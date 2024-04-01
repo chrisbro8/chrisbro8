@@ -12,11 +12,11 @@
 <p align="left"> 🌱 I’m currently learning React,Django,RestApi </p>
 <p align="Left"> 💡 Interested in working on side projects in Computer vision,machine learrning </p>
 <p align="left">⚡ Fun fact: Afternoon spent googling error messages and reading Stack Overflow threads.</p>
-![](https://komarev.com/ghpvc/?username=tib-source)
+-![](https://komarev.com/ghpvc/?username=chrisbro8)
+<h2 align="center">✨ Languages and Tools ✨  </h2>
 
 
 <p align="center">
-  <h2 align="center">✨ Languages and Tools ✨  </h2>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt =   "Javascript">
    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
