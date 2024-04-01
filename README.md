@@ -10,12 +10,13 @@
 <p align="left"> 📚 Current junior studying Computer Science at University of Westminster </p>
 <p align="left"> ⚙️ Student Researcher </p>
 <p align="left"> 🌱 I’m currently learning React,Django,RestApi </p>
-<p align="center"> 💡 Interetsed in working on side projects in Computer vision,machine learrning </p>
+<p align="Left"> 💡 Interested in working on side projects in Computer vision,machine learrning </p>
 <p align="left">⚡ Fun fact: Afternoon spent googling error messages and reading Stack Overflow threads.</p>
-<p align="center">![](https://komarev.com/ghpvc/?username=tib-source)</p>
-<h2 align="center">✨ Languages and Tools ✨  </h2>
+![](https://komarev.com/ghpvc/?username=tib-source)
+
 
 <p align="center">
+  <h2 align="center">✨ Languages and Tools ✨  </h2>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt =   "Javascript">
    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
