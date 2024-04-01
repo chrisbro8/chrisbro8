@@ -8,5 +8,5 @@
 - 📫 How to reach me: ![https://www.linkedin.com/in/brownwell-ehimare-22bb35275/]
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- ![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS)
+- ![](https://komarev.com/ghpvc/?username=chrisbro8&label=Profile+views)
 -->
