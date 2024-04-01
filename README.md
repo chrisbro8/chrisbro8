@@ -1,4 +1,4 @@
-### Hi there I'm Brownwell
+<h2 align="center">Hi there I'm Brownwell</h2>
 
 <!--
 **chrisbro8/chrisbro8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
